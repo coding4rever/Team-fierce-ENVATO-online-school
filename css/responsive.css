@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+    .vertical {
+      border-right: 0px;
+    }
+
+    
+    .push-down {
+       margin-top: 5% !important;
+    }
+
+    .move-right {
+
+        float: right;
+    }
+  }
